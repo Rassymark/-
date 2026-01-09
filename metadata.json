@@ -1,0 +1,7 @@
+{
+  "name": "Copy of 디지털 안식처 (Digital Oasis)",
+  "description": "디지털 피로를 치유하고 디지털 취약계층을 위한 따뜻한 AI 사용법을 안내하는 힐링 플랫폼입니다.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
